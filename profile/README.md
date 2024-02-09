@@ -1,1 +1,1 @@
-#Welcome to the Inertia Host GitHub!
+Welcome to the Inertia Host GitHub!
